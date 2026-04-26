@@ -1,0 +1,16 @@
+# Large data files
+ad_dataset.csv
+uploads/
+
+# Databases
+database.db
+
+# ML Models
+ad_model.joblib
+model_metrics.json
+
+# Python environment
+__pycache__/
+*.pyc
+.venv/
+env/
